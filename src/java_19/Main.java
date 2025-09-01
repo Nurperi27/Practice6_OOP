@@ -1,4 +1,5 @@
-import java_19.models.User;
+package java_19;
+
 import java_19.service.UserService;
 import java_19.service.impl.UserServiceImpl;
 
